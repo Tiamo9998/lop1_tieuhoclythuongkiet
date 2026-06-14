@@ -1,0 +1,2502 @@
+[
+  {
+    "STT": 1,
+    "Họ và tên": "Đỗ Thảo Anh",
+    "Ngày tháng năm sinh": "31/8/2018",
+    "Mã định danh của HS": "001318035229",
+    "Nơi sinh (Huyện, tỉnh)": "Hà Nội",
+    "Nơi ở hiện tại": "T30 K3",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 2,
+    "Họ và tên": "Bùi Dũng Anh",
+    "Ngày tháng năm sinh": "18/02/2018",
+    "Mã định danh của HS": "022218001267",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T38 K4",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 3,
+    "Họ và tên": "Nguyễn Đức Anh",
+    "Ngày tháng năm sinh": "12/7/2018",
+    "Mã định danh của HS": "030218001692",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T22 K2",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 4,
+    "Họ và tên": "Nguyễn Ngọc Bảo Anh",
+    "Ngày tháng năm sinh": "5//12/2018",
+    "Mã định danh của HS": "022318010115",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T12 K2",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 5,
+    "Họ và tên": "Nguyễn Văn Hoàng Bách",
+    "Ngày tháng năm sinh": "21/3/2018",
+    "Mã định danh của HS": "001218010791",
+    "Nơi sinh (Huyện, tỉnh)": "Hà Đông, Hà Nội",
+    "Nơi ở hiện tại": "T54 K5",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 6,
+    "Họ và tên": "Nguyễn Gia Bảo",
+    "Ngày tháng năm sinh": "31/08/2018",
+    "Mã định danh của HS": "022218006667",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T27 K3",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 7,
+    "Họ và tên": "Phạm Gia Bảo",
+    "Ngày tháng năm sinh": "17/2/2018",
+    "Mã định danh của HS": "019218002612",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T25 K3",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 8,
+    "Họ và tên": "Đinh Diệp Chi",
+    "Ngày tháng năm sinh": "18/10/2018",
+    "Mã định danh của HS": "022318007344",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T10 K1",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 9,
+    "Họ và tên": "Vũ Đức Dũng",
+    "Ngày tháng năm sinh": "15/9/2018",
+    "Mã định danh của HS": "022218007224",
+    "Nơi sinh (Huyện, tỉnh)": "Thanh Miện, Hải Dương",
+    "Nơi ở hiện tại": "T72 K7",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 10,
+    "Họ và tên": "Hoàng Đức Duy",
+    "Ngày tháng năm sinh": "20/12/2018",
+    "Mã định danh của HS": "022218010717",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T13 K4B, H.Thắng",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 11,
+    "Họ và tên": "Đặng Thùy Dương",
+    "Ngày tháng năm sinh": "18/10/2018",
+    "Mã định danh của HS": "022318007419",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T5 K1",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 12,
+    "Họ và tên": "Nguyễn Thu Hằng",
+    "Ngày tháng năm sinh": "12/4/2019",
+    "Mã định danh của HS": "001318013063",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T57 K6",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 13,
+    "Họ và tên": "Hoàng Gia Hân",
+    "Ngày tháng năm sinh": "15/03/2028",
+    "Mã định danh của HS": "022318001705",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T49 K5",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 14,
+    "Họ và tên": "Vũ Đức Hùng",
+    "Ngày tháng năm sinh": "15/9/2018",
+    "Mã định danh của HS": "022218007224",
+    "Nơi sinh (Huyện, tỉnh)": "Thanh Miện, Hải Dương",
+    "Nơi ở hiện tại": "T72 K7",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 15,
+    "Họ và tên": "Trần Ngọc Gia Huy",
+    "Ngày tháng năm sinh": "29/3/2018",
+    "Mã định danh của HS": "022218002102",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T58 K6",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 16,
+    "Họ và tên": "Nguyễn Gia Hưng",
+    "Ngày tháng năm sinh": "23/6/2018",
+    "Mã định danh của HS": "022218004694",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T14 K2",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 17,
+    "Họ và tên": "Nguyễn Phúc Hưng",
+    "Ngày tháng năm sinh": "03/12/2018",
+    "Mã định danh của HS": "022218009982",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T27 K3",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 18,
+    "Họ và tên": "Nguyễn Quang  Khải",
+    "Ngày tháng năm sinh": "24/09/2018",
+    "Mã định danh của HS": "022218007737",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T22 K2",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 19,
+    "Họ và tên": "Hà Anh Khôi",
+    "Ngày tháng năm sinh": "18/12/2018",
+    "Mã định danh của HS": "022218010201",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T78 K7",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 20,
+    "Họ và tên": "Nguyễn Đăng Khôi",
+    "Ngày tháng năm sinh": "14/7/2018",
+    "Mã định danh của HS": "022218006671",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T19 K2",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 21,
+    "Họ và tên": "Vũ Minh Khôi",
+    "Ngày tháng năm sinh": "17/12/2018",
+    "Mã định danh của HS": "036218015892",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T58 K6",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 22,
+    "Họ và tên": "Trần Hạnh Linh",
+    "Ngày tháng năm sinh": "05/05/2018",
+    "Mã định danh của HS": "022318003150",
+    "Nơi sinh (Huyện, tỉnh)": "Uông Bí, Quảng Ninh",
+    "Nơi ở hiện tại": "T27 K3",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 23,
+    "Họ và tên": "Nguyễn Hà My",
+    "Ngày tháng năm sinh": "7/10/2018",
+    "Mã định danh của HS": "022318007293",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T26 K3",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 24,
+    "Họ và tên": "Bùi Thảo Nguyên",
+    "Ngày tháng năm sinh": "22/9/2018",
+    "Mã định danh của HS": "034318013793",
+    "Nơi sinh (Huyện, tỉnh)": "Thái Bình",
+    "Nơi ở hiện tại": "T65 K6",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 25,
+    "Họ và tên": "Vũ Trang Nhi",
+    "Ngày tháng năm sinh": 43204,
+    "Mã định danh của HS": "",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T15 K2",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 26,
+    "Họ và tên": "Nguyễn Quỳnh Như",
+    "Ngày tháng năm sinh": "28/2/2018",
+    "Mã định danh của HS": "022318001519",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T14 K2",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 27,
+    "Họ và tên": "Nguyễn Tâm  Như",
+    "Ngày tháng năm sinh": "07/6/2018",
+    "Mã định danh của HS": "022318003663",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long - Quảng Ninh",
+    "Nơi ở hiện tại": "T43 K4",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 28,
+    "Họ và tên": "Phạm Quỳnh  Như",
+    "Ngày tháng năm sinh": "23/02/2018",
+    "Mã định danh của HS": "022318001030",
+    "Nơi sinh (Huyện, tỉnh)": "Cẩm Phả, Quảng Ninh",
+    "Nơi ở hiện tại": "T50 K5",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 29,
+    "Họ và tên": "Bùi Hoàng Tấn Phát",
+    "Ngày tháng năm sinh": "1/11/2018",
+    "Mã định danh của HS": "022218009966",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T42 K4",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 30,
+    "Họ và tên": "Hoàng Anh Quân",
+    "Ngày tháng năm sinh": "01/06/2018",
+    "Mã định danh của HS": "038218011228",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T45 K5",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 31,
+    "Họ và tên": "Tống Khánh Thi",
+    "Ngày tháng năm sinh": "29/08/2018",
+    "Mã định danh của HS": "022318006049",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T12 K2",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 32,
+    "Họ và tên": "Đặng Chí Thiện",
+    "Ngày tháng năm sinh": "3/11/2018",
+    "Mã định danh của HS": "036218012736",
+    "Nơi sinh (Huyện, tỉnh)": "Hải Hậu, Nam Định",
+    "Nơi ở hiện tại": "T8 K1",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 33,
+    "Họ và tên": "Nguyễn Đỗ Quỳnh Trang",
+    "Ngày tháng năm sinh": "18/4/2018",
+    "Mã định danh của HS": "022318002546",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T29 K3",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 34,
+    "Họ và tên": "Vũ Minh Trí",
+    "Ngày tháng năm sinh": "20/9/2018",
+    "Mã định danh của HS": "034218018968",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T60 K6",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 35,
+    "Họ và tên": "Vương Quốc Việt",
+    "Ngày tháng năm sinh": "29/07/2018",
+    "Mã định danh của HS": "022218005763",
+    "Nơi sinh (Huyện, tỉnh)": "Uông Bí, Quảng Ninh",
+    "Nơi ở hiện tại": "T46 K5",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thủy"
+  },
+  {
+    "STT": 36,
+    "Họ và tên": "Đàm Khánh An",
+    "Ngày tháng năm sinh": "10/09/2018",
+    "Mã định danh của HS": "022318006158",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T84 K8",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 37,
+    "Họ và tên": "Nguyễn Đức An",
+    "Ngày tháng năm sinh": "22/01/2018",
+    "Mã định danh của HS": "022218000500",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T60 K6",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 38,
+    "Họ và tên": "Phạm Nguyễn Phú An",
+    "Ngày tháng năm sinh": "14/8/2018",
+    "Mã định danh của HS": "022218005811",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T31 K3",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 39,
+    "Họ và tên": "Lê Thị Ngọc Anh",
+    "Ngày tháng năm sinh": "23/7/2018",
+    "Mã định danh của HS": "038318036715",
+    "Nơi sinh (Huyện, tỉnh)": "Thanh Hóa",
+    "Nơi ở hiện tại": "T40 K4",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 40,
+    "Họ và tên": "Nguyễn Nam Anh",
+    "Ngày tháng năm sinh": "27/09/2028",
+    "Mã định danh của HS": "001218043521",
+    "Nơi sinh (Huyện, tỉnh)": "Phúc Yên, Vĩnh Phúc",
+    "Nơi ở hiện tại": "T10 K1",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 41,
+    "Họ và tên": "Hoàng Minh Ánh",
+    "Ngày tháng năm sinh": "23/10/2018",
+    "Mã định danh của HS": "022318007540",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T11 K1",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 42,
+    "Họ và tên": "Đặng Hữu Đạt",
+    "Ngày tháng năm sinh": "8/3/2018",
+    "Mã định danh của HS": "022218001459",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T31 K3",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 43,
+    "Họ và tên": "Lâm Tiến Đạt",
+    "Ngày tháng năm sinh": "23/2/2018",
+    "Mã định danh của HS": "001218007145",
+    "Nơi sinh (Huyện, tỉnh)": "Thanh Oai - Hà Nội",
+    "Nơi ở hiện tại": "T20 K2",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 44,
+    "Họ và tên": "Vi Tiến Định",
+    "Ngày tháng năm sinh": "13/12/2018",
+    "Mã định danh của HS": "022218010076",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T22 K2",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 45,
+    "Họ và tên": "Phạm Minh  Đức",
+    "Ngày tháng năm sinh": "08/12/2018",
+    "Mã định danh của HS": "022218010697",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T94, Đồn Điền",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 46,
+    "Họ và tên": "Lê Hương Giang",
+    "Ngày tháng năm sinh": "17/10/2018",
+    "Mã định danh của HS": "022318007349",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T5 K1",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 47,
+    "Họ và tên": "Phạm Ngọc Hân",
+    "Ngày tháng năm sinh": "06/10/2018",
+    "Mã định danh của HS": "036318010511",
+    "Nơi sinh (Huyện, tỉnh)": "Nam Định",
+    "Nơi ở hiện tại": "T43 K4",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 48,
+    "Họ và tên": "Vũ Gia Hân",
+    "Ngày tháng năm sinh": "5/3/2018",
+    "Mã định danh của HS": "022318001473",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T28 K3",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 49,
+    "Họ và tên": "Nguyễn Vũ Phúc Hưng",
+    "Ngày tháng năm sinh": "23/04/2018",
+    "Mã định danh của HS": "022218002735",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T85 K8",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 50,
+    "Họ và tên": "Hoàng Tuấn Kiệt",
+    "Ngày tháng năm sinh": "12/1/2018",
+    "Mã định danh của HS": "036218000227",
+    "Nơi sinh (Huyện, tỉnh)": "Hải Hậu, Nam Định",
+    "Nơi ở hiện tại": "T52 K5",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 51,
+    "Họ và tên": "Nguyễn Nam Khánh",
+    "Ngày tháng năm sinh": "31/08/2018",
+    "Mã định danh của HS": "022218007069",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T51 K5",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 52,
+    "Họ và tên": "Vũ Huy Khánh",
+    "Ngày tháng năm sinh": "2/4/2018",
+    "Mã định danh của HS": "031218003420",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T24 K3",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 53,
+    "Họ và tên": "Đinh Khắc Đăng Khoa",
+    "Ngày tháng năm sinh": "4/42018",
+    "Mã định danh của HS": "022218002289",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T13 K2",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 54,
+    "Họ và tên": "Nguyễn Tuệ Lâm",
+    "Ngày tháng năm sinh": "8/11/2018",
+    "Mã định danh của HS": "022318008708",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T12 K2",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 55,
+    "Họ và tên": "Hoàng Khánh Linh",
+    "Ngày tháng năm sinh": "02/02/2018",
+    "Mã định danh của HS": "022318001232",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T96, Đồn Điền",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 56,
+    "Họ và tên": "Lê Bình Minh",
+    "Ngày tháng năm sinh": "11/04/2018",
+    "Mã định danh của HS": "022218002410",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T57 K6",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 57,
+    "Họ và tên": "Võ Đức Minh",
+    "Ngày tháng năm sinh": "24/1/2018",
+    "Mã định danh của HS": "022218000464",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T16 K2",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 58,
+    "Họ và tên": "Vũ Quang Minh",
+    "Ngày tháng năm sinh": "06/01/2018",
+    "Mã định danh của HS": "022218000226",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T51 K5",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 59,
+    "Họ và tên": "Nguyễn Hoàng Ngân",
+    "Ngày tháng năm sinh": "15/06/2018",
+    "Mã định danh của HS": "022318005409",
+    "Nơi sinh (Huyện, tỉnh)": "Hải Dương",
+    "Nơi ở hiện tại": "T70 K7",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 60,
+    "Họ và tên": "Đỗ Kiêm Khôi Nguyên",
+    "Ngày tháng năm sinh": "26/09/2018",
+    "Mã định danh của HS": "",
+    "Nơi sinh (Huyện, tỉnh)": "Đan Phượng - Hà Nội",
+    "Nơi ở hiện tại": "T31 K3",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 61,
+    "Họ và tên": "Vũ Tuệ Nhi",
+    "Ngày tháng năm sinh": "04/10/2018",
+    "Mã định danh của HS": "022318007355",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T84 K8",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 62,
+    "Họ và tên": "Nguyễn Minh Quân",
+    "Ngày tháng năm sinh": "21/2/2018",
+    "Mã định danh của HS": "022218000912",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long - Quảng Ninh",
+    "Nơi ở hiện tại": "T35 K4",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 63,
+    "Họ và tên": "Nguyễn Thu Quỳnh",
+    "Ngày tháng năm sinh": "25/4/2018",
+    "Mã định danh của HS": "022318002598",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T71 K7",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 64,
+    "Họ và tên": "Đoàn Minh Tuấn",
+    "Ngày tháng năm sinh": "9/8/2018",
+    "Mã định danh của HS": "022218006050",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T17 K2",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 65,
+    "Họ và tên": "Loan Dương Ngọc Thái",
+    "Ngày tháng năm sinh": "10/7/2018",
+    "Mã định danh của HS": "024218005573",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T22 K2",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 66,
+    "Họ và tên": "Nguyễn Thị Thanh Thu",
+    "Ngày tháng năm sinh": "4/2/2018",
+    "Mã định danh của HS": "030318007150",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T48 K5",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 67,
+    "Họ và tên": "Đặng Hương Trà",
+    "Ngày tháng năm sinh": "26/09/2018",
+    "Mã định danh của HS": "022318006753",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T34 K3",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 68,
+    "Họ và tên": "Phạm Đoan Trang",
+    "Ngày tháng năm sinh": "17/7/2018",
+    "Mã định danh của HS": "031318007819",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T21 K2",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 69,
+    "Họ và tên": "Phạm Bảo  Trâm",
+    "Ngày tháng năm sinh": "26/06/2018",
+    "Mã định danh của HS": "030318004516",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T75 K7",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 70,
+    "Họ và tên": "Nguyễn Hà Vy",
+    "Ngày tháng năm sinh": "8/7/2018",
+    "Mã định danh của HS": "022318004328",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T7 K1",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 71,
+    "Họ và tên": "Nguyễn Thị Tường Vy",
+    "Ngày tháng năm sinh": "21/12/2018",
+    "Mã định danh của HS": "002318004075",
+    "Nơi sinh (Huyện, tỉnh)": "Quốc Oai, Hà Nội",
+    "Nơi ở hiện tại": "T39 K4",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Tô Hồng Chiên"
+  },
+  {
+    "STT": 72,
+    "Họ và tên": "Bùi Phương Anh",
+    "Ngày tháng năm sinh": "30/12/2018",
+    "Mã định danh của HS": "022318009892",
+    "Nơi sinh (Huyện, tỉnh)": "Quảng Yên, Quảng Ninh",
+    "Nơi ở hiện tại": "T40 K4",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 73,
+    "Họ và tên": "Đỗ Bảo Anh",
+    "Ngày tháng năm sinh": "11/9/2018",
+    "Mã định danh của HS": "022318006261",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T39 K4",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 74,
+    "Họ và tên": "Nguyễn Phạm Trâm Anh",
+    "Ngày tháng năm sinh": "28/4/2018",
+    "Mã định danh của HS": "034318014306",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T24 K3",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 75,
+    "Họ và tên": "Tạ Phương Mỹ Anh",
+    "Ngày tháng năm sinh": "13/11/2018",
+    "Mã định danh của HS": "022318010173",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T62 K6",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 76,
+    "Họ và tên": "Trần Tâm Anh",
+    "Ngày tháng năm sinh": "11/9/2018",
+    "Mã định danh của HS": "022318006734",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T52 K5",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 77,
+    "Họ và tên": "Bùi Gia Bảo",
+    "Ngày tháng năm sinh": "22/9/2018",
+    "Mã định danh của HS": "022218011583",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T19 K2",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 78,
+    "Họ và tên": "Hoàng Bảo Châu",
+    "Ngày tháng năm sinh": "26/08/2018",
+    "Mã định danh của HS": "022318006143",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T70 K7",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 79,
+    "Họ và tên": "Nguyễn Bảo  Châu",
+    "Ngày tháng năm sinh": "17/01/2018",
+    "Mã định danh của HS": "022318000208",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T23 K3",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 80,
+    "Họ và tên": "Nguyễn Ngọc Diệp",
+    "Ngày tháng năm sinh": "18/5/2018",
+    "Mã định danh của HS": "024318014320",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T21 K2",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 81,
+    "Họ và tên": "Nguyễn Bảo  Duy",
+    "Ngày tháng năm sinh": "23/09/2018",
+    "Mã định danh của HS": "022218007112",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T72 K7",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 82,
+    "Họ và tên": "Trần Đức Duy",
+    "Ngày tháng năm sinh": "03/5/2018",
+    "Mã định danh của HS": "022218002926",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T57 K6",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 83,
+    "Họ và tên": "Bùi Tiến Đạt",
+    "Ngày tháng năm sinh": "1/1/2018",
+    "Mã định danh của HS": "022218003221",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T60 K6",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 84,
+    "Họ và tên": "Hoàng Hữu Đạt",
+    "Ngày tháng năm sinh": "11/12/2018",
+    "Mã định danh của HS": "022218010313",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T68 K7",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 85,
+    "Họ và tên": "Hoàng Tiến Đạt",
+    "Ngày tháng năm sinh": "1/2/2018",
+    "Mã định danh của HS": "038218036368",
+    "Nơi sinh (Huyện, tỉnh)": "Nga Sơn, Thanh Hóa",
+    "Nơi ở hiện tại": "T84 K8",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 86,
+    "Họ và tên": "Trần Tiến  Đạt",
+    "Ngày tháng năm sinh": "27/10/2018",
+    "Mã định danh của HS": "022218009710",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T58 K6",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 87,
+    "Họ và tên": "Nguyễn Mạnh Hải",
+    "Ngày tháng năm sinh": "6/10/2018",
+    "Mã định danh của HS": "022218008059",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T29 K3",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 88,
+    "Họ và tên": "Trương Mạnh Hải",
+    "Ngày tháng năm sinh": "12/12/2018",
+    "Mã định danh của HS": "022218010594",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T13 K2",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 89,
+    "Họ và tên": "Nguyễn Ngọc Hoa",
+    "Ngày tháng năm sinh": "05/03/2018",
+    "Mã định danh của HS": "022318001266",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T12 K2",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 90,
+    "Họ và tên": "Nguyễn Huy Hoàng",
+    "Ngày tháng năm sinh": "12/09/2018",
+    "Mã định danh của HS": "022218006782",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T46 K5",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 91,
+    "Họ và tên": "Nguyễn Gia Huy",
+    "Ngày tháng năm sinh": "09/10/2018",
+    "Mã định danh của HS": "022218007734",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T33 K3",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 92,
+    "Họ và tên": "Đỗ Anh Khôi",
+    "Ngày tháng năm sinh": "21/05/2018",
+    "Mã định danh của HS": "022218003592",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T14 K2",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 93,
+    "Họ và tên": "Phạm Tú Linh",
+    "Ngày tháng năm sinh": "16/7/2018",
+    "Mã định danh của HS": "022318004905",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T8 K1",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 94,
+    "Họ và tên": "Trần Tú  Linh",
+    "Ngày tháng năm sinh": "05/09/2018",
+    "Mã định danh của HS": "022318006153",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T85 K8",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 95,
+    "Họ và tên": "Nguyễn Đắc Lộc",
+    "Ngày tháng năm sinh": "4/10/2018",
+    "Mã định danh của HS": "022218007807",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T38 K4",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 96,
+    "Họ và tên": "Nguyễn Tuấn Minh",
+    "Ngày tháng năm sinh": "15/12/2018",
+    "Mã định danh của HS": "022218010119",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T35 K4",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 97,
+    "Họ và tên": "Nguyễn Kim Ngân",
+    "Ngày tháng năm sinh": "4/5/2018",
+    "Mã định danh của HS": "022318002867",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T36 K4",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 98,
+    "Họ và tên": "Trịnh Tuấn Ngọc",
+    "Ngày tháng năm sinh": "10/4/2018",
+    "Mã định danh của HS": "022218002305",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T47 K5",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 99,
+    "Họ và tên": "Vũ Nguyễn Bảo Ngọc",
+    "Ngày tháng năm sinh": "10/8/2018",
+    "Mã định danh của HS": "022318005483",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T59 K6",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 100,
+    "Họ và tên": "Đặng Yến Nhi",
+    "Ngày tháng năm sinh": "26/7/2018",
+    "Mã định danh của HS": 22318004744,
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long - Quảng Ninh",
+    "Nơi ở hiện tại": "T78 K7",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 101,
+    "Họ và tên": "Ngô Nam Phong",
+    "Ngày tháng năm sinh": "19/05/2018",
+    "Mã định danh của HS": "022218003545",
+    "Nơi sinh (Huyện, tỉnh)": "Cẩm Phả, Quảng Ninh",
+    "Nơi ở hiện tại": "T65 K6",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 102,
+    "Họ và tên": "Vi Lâm Trúc Phương",
+    "Ngày tháng năm sinh": "22/6/2018",
+    "Mã định danh của HS": "025318003576",
+    "Nơi sinh (Huyện, tỉnh)": "Thanh Ba, Phú Thọ",
+    "Nơi ở hiện tại": "T26 K3",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 103,
+    "Họ và tên": "Vũ Như Quỳnh",
+    "Ngày tháng năm sinh": "22/1/2018",
+    "Mã định danh của HS": "022318000524",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T80 K8",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 104,
+    "Họ và tên": "Đặng Thái Sơn",
+    "Ngày tháng năm sinh": "30/10/2018",
+    "Mã định danh của HS": "022218008494",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T96 KĐồn Điền",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 105,
+    "Họ và tên": "Vũ Phương Thảo",
+    "Ngày tháng năm sinh": "20/02/2028",
+    "Mã định danh của HS": "022318000991",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T42 K4",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 106,
+    "Họ và tên": "Nguyễn Xuân Thiện",
+    "Ngày tháng năm sinh": "25/11/2018",
+    "Mã định danh của HS": "022218009472",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T75 K7",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 107,
+    "Họ và tên": "Hoàng Bảo  Trâm",
+    "Ngày tháng năm sinh": "24/02/2018",
+    "Mã định danh của HS": "022318000954",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T65 K6",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung"
+  },
+  {
+    "STT": 108,
+    "Họ và tên": "Đỗ Bảo An",
+    "Ngày tháng năm sinh": "11/9/2018",
+    "Mã định danh của HS": "022318006261",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T39 K4",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 109,
+    "Họ và tên": "Vũ Hữu An",
+    "Ngày tháng năm sinh": "16/04/2018",
+    "Mã định danh của HS": "022218002973",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T45 K5",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 110,
+    "Họ và tên": "Bùi Thế  Anh",
+    "Ngày tháng năm sinh": "12/12/2018",
+    "Mã định danh của HS": "034218000241",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long - Quảng Ninh",
+    "Nơi ở hiện tại": "T72 K7",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 111,
+    "Họ và tên": "Đặng Huyền Anh",
+    "Ngày tháng năm sinh": "7/12/2018",
+    "Mã định danh của HS": "022318009028",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T94, Đồn Điền",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 112,
+    "Họ và tên": "Phạm Các Vy Anh",
+    "Ngày tháng năm sinh": "25/11/2018",
+    "Mã định danh của HS": "046318008933",
+    "Nơi sinh (Huyện, tỉnh)": "Thừa Thiên Huế",
+    "Nơi ở hiện tại": "T40 K4",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 113,
+    "Họ và tên": "Phạm Tú Anh",
+    "Ngày tháng năm sinh": "13/5/2018",
+    "Mã định danh của HS": "022318003173",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T39 K4",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 114,
+    "Họ và tên": "Nông Quốc Bảo",
+    "Ngày tháng năm sinh": "31/10/2018",
+    "Mã định danh của HS": "033218014478",
+    "Nơi sinh (Huyện, tỉnh)": "Hưng Yên",
+    "Nơi ở hiện tại": "T61 K6",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 115,
+    "Họ và tên": "Trần Thảo Chi",
+    "Ngày tháng năm sinh": "30/08/2018",
+    "Mã định danh của HS": "022318006076",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T14 K2",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 116,
+    "Họ và tên": "Phạm Tiến Dũng",
+    "Ngày tháng năm sinh": "18/01/2018",
+    "Mã định danh của HS": "022218000204",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T89 K8",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 117,
+    "Họ và tên": "Phan Tiến Đạt",
+    "Ngày tháng năm sinh": "11/3/2018",
+    "Mã định danh của HS": "034218011941",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T50 K5",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 118,
+    "Họ và tên": "Bùi Lâm Đức",
+    "Ngày tháng năm sinh": "26/8/2018",
+    "Mã định danh của HS": "022218006285",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T51 K5",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 119,
+    "Họ và tên": "Phạm Anh Đức",
+    "Ngày tháng năm sinh": "14/12/2018",
+    "Mã định danh của HS": "022218010410",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T16 K2",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 120,
+    "Họ và tên": "Bùi Gia Hân",
+    "Ngày tháng năm sinh": "6/12/2018",
+    "Mã định danh của HS": "022318009741",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T38 K4",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 121,
+    "Họ và tên": "Nguyễn Gia Hân",
+    "Ngày tháng năm sinh": "18/3/2018",
+    "Mã định danh của HS": "022318001668",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T23 K3",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 122,
+    "Họ và tên": "Đào Minh  Hiếu",
+    "Ngày tháng năm sinh": "15/11/2018",
+    "Mã định danh của HS": "034218010051",
+    "Nơi sinh (Huyện, tỉnh)": "Quỳnh Phụ, Thái Bình",
+    "Nơi ở hiện tại": "T25 K3",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 123,
+    "Họ và tên": "Phạm Đình Hiếu",
+    "Ngày tháng năm sinh": "1/3/2018",
+    "Mã định danh của HS": "022218001136",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T20 K2",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 124,
+    "Họ và tên": "Nguyễn Gia Huy",
+    "Ngày tháng năm sinh": "4/2/2018",
+    "Mã định danh của HS": "022218001066",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T31 K3",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 125,
+    "Họ và tên": "Lê Minh Khang",
+    "Ngày tháng năm sinh": "29/09/2018",
+    "Mã định danh của HS": "022218007710",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T20 K2",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 126,
+    "Họ và tên": "Nguyễn Diệu Linh",
+    "Ngày tháng năm sinh": "30/1/2018",
+    "Mã định danh của HS": "022318000661",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T24 K3",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 127,
+    "Họ và tên": "Nguyễn Hải Long",
+    "Ngày tháng năm sinh": "18/08/2018",
+    "Mã định danh của HS": "022218007024",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T47 K5",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 128,
+    "Họ và tên": "Nguyễn Bá Nhật Minh",
+    "Ngày tháng năm sinh": "17/12/2018",
+    "Mã định danh của HS": "034218007798",
+    "Nơi sinh (Huyện, tỉnh)": "Thái Bình",
+    "Nơi ở hiện tại": "T13 K2",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 129,
+    "Họ và tên": "Hoàng Hà My",
+    "Ngày tháng năm sinh": "11/1/2018",
+    "Mã định danh của HS": "022318009119",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T10 K1",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 130,
+    "Họ và tên": "Hoàng Kiều My",
+    "Ngày tháng năm sinh": "03/08/2018",
+    "Mã định danh của HS": "022318005879",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T75, K7",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 131,
+    "Họ và tên": "Nguyễn Ngọc Trà My",
+    "Ngày tháng năm sinh": "26/7/2018",
+    "Mã định danh của HS": "022318005061",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T70 K7",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 132,
+    "Họ và tên": "Nguyễn Đình Nam",
+    "Ngày tháng năm sinh": "29/1/2018",
+    "Mã định danh của HS": "022218000435",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T3 K1",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 133,
+    "Họ và tên": "Hoàng Trọng Nghĩa",
+    "Ngày tháng năm sinh": "12/1/2018",
+    "Mã định danh của HS": "022218000217",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T84 K8",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 134,
+    "Họ và tên": "Vũ Tuấn Phong",
+    "Ngày tháng năm sinh": "16/08/2018",
+    "Mã định danh của HS": "022218006560",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T75 K7",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 135,
+    "Họ và tên": "Lê Quỳnh Phương",
+    "Ngày tháng năm sinh": "9/11/2018",
+    "Mã định danh của HS": "022318008227",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T69 K7",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 136,
+    "Họ và tên": "Nguyễn Hoàng  Quân",
+    "Ngày tháng năm sinh": "04/12/2018",
+    "Mã định danh của HS": "022218010812",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T26 K3",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 137,
+    "Họ và tên": "Thiều Thị Như Quỳnh",
+    "Ngày tháng năm sinh": "11/4/2018",
+    "Mã định danh của HS": "038318029771",
+    "Nơi sinh (Huyện, tỉnh)": "Thanh Hóa",
+    "Nơi ở hiện tại": "T42 K4",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 138,
+    "Họ và tên": "Vũ Đức Thành",
+    "Ngày tháng năm sinh": "18/10/2018",
+    "Mã định danh của HS": "022218008477",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T21 K2",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 139,
+    "Họ và tên": "Nguyễn Phương  Thảo",
+    "Ngày tháng năm sinh": "08/11/2018",
+    "Mã định danh của HS": 22318010393,
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long - Quảng Ninh",
+    "Nơi ở hiện tại": "T55 K5",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 140,
+    "Họ và tên": "Nguyễn Thiên Thư",
+    "Ngày tháng năm sinh": "05/10/2018",
+    "Mã định danh của HS": "022318007322",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T7 K1",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 141,
+    "Họ và tên": "Nguyễn Thu Trang",
+    "Ngày tháng năm sinh": "23/09/2018",
+    "Mã định danh của HS": "022318006644",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T84 K8",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 142,
+    "Họ và tên": "Bùi Bảo Trâm",
+    "Ngày tháng năm sinh": "03/10/2018",
+    "Mã định danh của HS": "022318007051",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T19 K2",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 143,
+    "Họ và tên": "Đỗ Uy Vũ",
+    "Ngày tháng năm sinh": "5/12/2018",
+    "Mã định danh của HS": "022218010814",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T57 K6",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 144,
+    "Họ và tên": "Hồ Tôn Vũ",
+    "Ngày tháng năm sinh": "19/3/2018",
+    "Mã định danh của HS": "022218002130",
+    "Nơi sinh (Huyện, tỉnh)": "Đông Triều, Quảng Ninh",
+    "Nơi ở hiện tại": "T35 K4",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 145,
+    "Họ và tên": "Trần Na Vy",
+    "Ngày tháng năm sinh": "06/09/2018",
+    "Mã định danh của HS": "022318010788",
+    "Nơi sinh (Huyện, tỉnh)": "Lê Chân, Hải Phòng",
+    "Nơi ở hiện tại": "T14 K2",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương"
+  },
+  {
+    "STT": 146,
+    "Họ và tên": "Bùi Phúc An",
+    "Ngày tháng năm sinh": "13/9/2018",
+    "Mã định danh của HS": "030218008792",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T12 K2",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 147,
+    "Họ và tên": "Phùng Hữu Khánh An",
+    "Ngày tháng năm sinh": "01/02/2018",
+    "Mã định danh của HS": "001218003712",
+    "Nơi sinh (Huyện, tỉnh)": "Ba Vì, Hà Nội",
+    "Nơi ở hiện tại": "T8 K1",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 148,
+    "Họ và tên": "Lê Trâm Anh",
+    "Ngày tháng năm sinh": "18/12/2018",
+    "Mã định danh của HS": "022318009582",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T70 K7",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 149,
+    "Họ và tên": "Nguyễn Ngọc Bảo Anh",
+    "Ngày tháng năm sinh": "14/11/2018",
+    "Mã định danh của HS": "022318008371",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 150,
+    "Họ và tên": "Vũ Vân Anh",
+    "Ngày tháng năm sinh": "22/11/2018",
+    "Mã định danh của HS": "022318009194",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T21 K2",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 151,
+    "Họ và tên": "Đại Ngọc Quốc Bảo",
+    "Ngày tháng năm sinh": "23/2/2018",
+    "Mã định danh của HS": "022218001016",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T7 K1",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 152,
+    "Họ và tên": "Nguyễn Anh  Duy",
+    "Ngày tháng năm sinh": "02/11/2018",
+    "Mã định danh của HS": "022218008621",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T65 K6",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 153,
+    "Họ và tên": "Nguyễn Tiến Đạt",
+    "Ngày tháng năm sinh": "4/11/2018",
+    "Mã định danh của HS": "022218009081",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T38 K4",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 154,
+    "Họ và tên": "Nguyễn Minh Đức",
+    "Ngày tháng năm sinh": "27/7/2018",
+    "Mã định danh của HS": "022218005897",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T13 K2",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 155,
+    "Họ và tên": "Đoàn Hoàng Hải",
+    "Ngày tháng năm sinh": "16/12/2018",
+    "Mã định danh của HS": "022218010173",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T39 K4",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 156,
+    "Họ và tên": "Đỗ Minh Hiếu",
+    "Ngày tháng năm sinh": "4/8/2018",
+    "Mã định danh của HS": "034218006287",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T61 K6",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 157,
+    "Họ và tên": "Nguyễn Huy Hoàng",
+    "Ngày tháng năm sinh": "24/5/2018",
+    "Mã định danh của HS": "022218003646",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T85 K8",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 158,
+    "Họ và tên": "Vũ Mạnh Hùng",
+    "Ngày tháng năm sinh": "21/06/2018",
+    "Mã định danh của HS": "034218012526",
+    "Nơi sinh (Huyện, tỉnh)": "Thái Bình",
+    "Nơi ở hiện tại": "T40 K4",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 159,
+    "Họ và tên": "Vũ Gia  Hưng",
+    "Ngày tháng năm sinh": 43175,
+    "Mã định danh của HS": "",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T49 K5",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 160,
+    "Họ và tên": "Đỗ Minh  Khôi",
+    "Ngày tháng năm sinh": "31/12/2018",
+    "Mã định danh của HS": 2218010848,
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long - Quảng Ninh",
+    "Nơi ở hiện tại": "T68 K7",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 161,
+    "Họ và tên": "Bùi Tuệ Lâm",
+    "Ngày tháng năm sinh": "27/07/2018",
+    "Mã định danh của HS": "022318005303",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T56 K5",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 162,
+    "Họ và tên": "Trịnh Phương  Linh",
+    "Ngày tháng năm sinh": "18/05/2018",
+    "Mã định danh của HS": "022318003094",
+    "Nơi sinh (Huyện, tỉnh)": "Uông Bí, Quảng Ninh",
+    "Nơi ở hiện tại": "T70 K7",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 163,
+    "Họ và tên": "Lê Sỹ Luân",
+    "Ngày tháng năm sinh": "9/9/2018",
+    "Mã định danh của HS": "022218011632",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T19 K2",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 164,
+    "Họ và tên": "Nguyễn Quang Minh",
+    "Ngày tháng năm sinh": "4/1/2018",
+    "Mã định danh của HS": "022218000277",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T84 K8",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 165,
+    "Họ và tên": "Dương Hà My",
+    "Ngày tháng năm sinh": "01/03/2018",
+    "Mã định danh của HS": "035318001077",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T49 K5",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 166,
+    "Họ và tên": "Đinh Thị Diễm My",
+    "Ngày tháng năm sinh": "13/9/2018",
+    "Mã định danh của HS": "031318009814",
+    "Nơi sinh (Huyện, tỉnh)": "Hải Phòng",
+    "Nơi ở hiện tại": "T60 K6",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 167,
+    "Họ và tên": "Đinh Hà Nam",
+    "Ngày tháng năm sinh": "07/12/2018",
+    "Mã định danh của HS": "022218010024",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T8 K1",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 168,
+    "Họ và tên": "Vũ Kim  Ngân",
+    "Ngày tháng năm sinh": "19/9/2018",
+    "Mã định danh của HS": "022318006727",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long - Quảng Ninh",
+    "Nơi ở hiện tại": "T20 K2",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 169,
+    "Họ và tên": "Bùi Thảo Nhi",
+    "Ngày tháng năm sinh": "20/10/2018",
+    "Mã định danh của HS": "022318007373",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T26 K3",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 170,
+    "Họ và tên": "Dương Khánh Nhi",
+    "Ngày tháng năm sinh": "4/9/2018",
+    "Mã định danh của HS": "022318006771",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T24 K3",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 171,
+    "Họ và tên": "Đinh Phương  Nhi",
+    "Ngày tháng năm sinh": "19/05/2018",
+    "Mã định danh của HS": "022318004572",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T80 K8",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 172,
+    "Họ và tên": "Phạm Quỳnh  Như",
+    "Ngày tháng năm sinh": "26/2/2018",
+    "Mã định danh của HS": "022318001271",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T52 K5",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 173,
+    "Họ và tên": "Đỗ Trần Minh Phong",
+    "Ngày tháng năm sinh": "13/11/2018",
+    "Mã định danh của HS": "022218009908",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T13 K2",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 174,
+    "Họ và tên": "Nguyễn Xuân Phúc",
+    "Ngày tháng năm sinh": "14/6/2018",
+    "Mã định danh của HS": 22218005470,
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long - Quảng Ninh",
+    "Nơi ở hiện tại": "T75 K7",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 175,
+    "Họ và tên": "Nguyễn Hoàng Quân",
+    "Ngày tháng năm sinh": "01/12/2018",
+    "Mã định danh của HS": "022218011444",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T70 K7",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 176,
+    "Họ và tên": "Bùi Anh Tuấn",
+    "Ngày tháng năm sinh": "18/7/2018",
+    "Mã định danh của HS": "022218005462",
+    "Nơi sinh (Huyện, tỉnh)": "Thái Bình",
+    "Nơi ở hiện tại": "T36 K4",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 177,
+    "Họ và tên": "Đoàn Thùy Trang",
+    "Ngày tháng năm sinh": "2/7/2018",
+    "Mã định danh của HS": "022318004626",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T16 K2",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 178,
+    "Họ và tên": "Doãn Bảo Trâm",
+    "Ngày tháng năm sinh": "22/8/2018",
+    "Mã định danh của HS": "038318037581",
+    "Nơi sinh (Huyện, tỉnh)": "Thanh Hóa",
+    "Nơi ở hiện tại": "T11 K1",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 179,
+    "Họ và tên": "Đỗ Tường Vy",
+    "Ngày tháng năm sinh": "13/3/2018",
+    "Mã định danh của HS": "022318001510",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T58 K6",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường"
+  },
+  {
+    "STT": 180,
+    "Họ và tên": "Lê Nguyễn Đức Anh",
+    "Ngày tháng năm sinh": "4/5/2018",
+    "Mã định danh của HS": "022218003512",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T6 K3, Phường Trần Hưng Đạo",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 181,
+    "Họ và tên": "Nguyễn Tuệ Anh",
+    "Ngày tháng năm sinh": "26/12/2018",
+    "Mã định danh của HS": "022318010195",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T89 K8",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 182,
+    "Họ và tên": "Hoàng Gia Bảo",
+    "Ngày tháng năm sinh": "23/12/2018",
+    "Mã định danh của HS": "022218010573",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T22 K2",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 183,
+    "Họ và tên": "Lê Gia Bảo",
+    "Ngày tháng năm sinh": "09/05/2018",
+    "Mã định danh của HS": "022218003173",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T58 K6",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 184,
+    "Họ và tên": "Nguyễn Ngọc Bích",
+    "Ngày tháng năm sinh": "06/5/2018",
+    "Mã định danh của HS": "022318002894",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T14 K2",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 185,
+    "Họ và tên": "Lương Thảo Chi",
+    "Ngày tháng năm sinh": "5/10/2018",
+    "Mã định danh của HS": "022318009976",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T55 K5",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 186,
+    "Họ và tên": "Ngô Quỳnh  Chi",
+    "Ngày tháng năm sinh": "02/05/2018",
+    "Mã định danh của HS": "022318002762",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T1 K6, Phường Việt Hưng",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 187,
+    "Họ và tên": "Dương Ngọc Diệp",
+    "Ngày tháng năm sinh": "26/12/2018",
+    "Mã định danh của HS": "022318009700",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T24 K3",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 188,
+    "Họ và tên": "Lê Dũng",
+    "Ngày tháng năm sinh": "23/1/2018",
+    "Mã định danh của HS": "022218001272",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T17 K2",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 189,
+    "Họ và tên": "Trần Hoàng  Duy",
+    "Ngày tháng năm sinh": "28/10/2018",
+    "Mã định danh của HS": "028218006085",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T22 K2",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 190,
+    "Họ và tên": "Trần Hoàng Đạt",
+    "Ngày tháng năm sinh": "04/01/2018",
+    "Mã định danh của HS": "034218012160",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T69 K7",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 191,
+    "Họ và tên": "Trần Hải Đăng",
+    "Ngày tháng năm sinh": "5/6/2018",
+    "Mã định danh của HS": "008218008066",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T22 K2",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 192,
+    "Họ và tên": "Nguyễn Ngọc Hân",
+    "Ngày tháng năm sinh": "21/8/2018",
+    "Mã định danh của HS": "034318013522",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T47 K5",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 193,
+    "Họ và tên": "Nguyễn Công Hiếu",
+    "Ngày tháng năm sinh": "09/02/2018",
+    "Mã định danh của HS": "022218001520",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T39 K4",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 194,
+    "Họ và tên": "Trần Bảo Huy",
+    "Ngày tháng năm sinh": "28/6/2018",
+    "Mã định danh của HS": "035218003658",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T22 K2",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 195,
+    "Họ và tên": "Đỗ Gia Hưng",
+    "Ngày tháng năm sinh": "9/4/2018",
+    "Mã định danh của HS": "001218014938",
+    "Nơi sinh (Huyện, tỉnh)": "Hà Nội",
+    "Nơi ở hiện tại": "T28 K3",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 196,
+    "Họ và tên": "Nguyễn Gia Hưng",
+    "Ngày tháng năm sinh": "21/09/2018",
+    "Mã định danh của HS": "022218008044",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T36 K4",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 197,
+    "Họ và tên": "Bùi Quý Khang",
+    "Ngày tháng năm sinh": "14/10/2018",
+    "Mã định danh của HS": "022218008282",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T39 K4",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 198,
+    "Họ và tên": "Ngọ Minh Khang",
+    "Ngày tháng năm sinh": "13/9/2018",
+    "Mã định danh của HS": "022218006957",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T50 K5",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 199,
+    "Họ và tên": "Trương Hiểu  Lam",
+    "Ngày tháng năm sinh": "10/07/2018",
+    "Mã định danh của HS": "022318004318",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Thôn Đồng Vang, Xã Sơn Dương",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 200,
+    "Họ và tên": "Phạm Ngọc Linh",
+    "Ngày tháng năm sinh": "04/09/2018",
+    "Mã định danh của HS": "022318009817",
+    "Nơi sinh (Huyện, tỉnh)": "Lạng Sơn",
+    "Nơi ở hiện tại": "T39 K4",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 201,
+    "Họ và tên": "Trần Đức Minh",
+    "Ngày tháng năm sinh": "20/01/2018",
+    "Mã định danh của HS": "022218000540",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T39 K4",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 202,
+    "Họ và tên": "Trần Tuấn Minh",
+    "Ngày tháng năm sinh": "08/09/2018",
+    "Mã định danh của HS": "022218008155",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T8 K1",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 203,
+    "Họ và tên": "Trương Công Tuấn Minh",
+    "Ngày tháng năm sinh": "20/7/2018",
+    "Mã định danh của HS": "034218003605",
+    "Nơi sinh (Huyện, tỉnh)": "Thái Bình",
+    "Nơi ở hiện tại": "T15 K2",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 204,
+    "Họ và tên": "Ngô Thị Hà My",
+    "Ngày tháng năm sinh": "27/9/2018",
+    "Mã định danh của HS": "022318007886",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T56 K5",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 205,
+    "Họ và tên": "Bùi Quang Nhật",
+    "Ngày tháng năm sinh": "14/9/2018",
+    "Mã định danh của HS": "022218007985",
+    "Nơi sinh (Huyện, tỉnh)": "Uông Bí, Quảng Ninh",
+    "Nơi ở hiện tại": "T13 K2",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 206,
+    "Họ và tên": "Nguyễn Trần An Nhiên",
+    "Ngày tháng năm sinh": "17/09/2018",
+    "Mã định danh của HS": "022318006680",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T69 K7",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 207,
+    "Họ và tên": "Nguyễn Thủy Tiên",
+    "Ngày tháng năm sinh": "30/01/2018",
+    "Mã định danh của HS": "022318000586",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T22 K2",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 208,
+    "Họ và tên": "Mai Nguyễn Yến  Thanh",
+    "Ngày tháng năm sinh": "12/01/2018",
+    "Mã định danh của HS": "022318000102",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T48 K5",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 209,
+    "Họ và tên": "Ngô Tuấn Thành",
+    "Ngày tháng năm sinh": "18/9/2018",
+    "Mã định danh của HS": "022218007161",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T47 K5",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 210,
+    "Họ và tên": "Dương An Thịnh",
+    "Ngày tháng năm sinh": "23/12/2018",
+    "Mã định danh của HS": "022218010380",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T24 K3",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 211,
+    "Họ và tên": "Ngô Anh Thư",
+    "Ngày tháng năm sinh": "10/5/2018",
+    "Mã định danh của HS": "030318005857",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T22 K2",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 212,
+    "Họ và tên": "Bùi Bảo Trang",
+    "Ngày tháng năm sinh": "1/6/2018",
+    "Mã định danh của HS": "022318003452",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T24 K3",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 213,
+    "Họ và tên": "Bùi Thanh Trúc",
+    "Ngày tháng năm sinh": "27/6/2018",
+    "Mã định danh của HS": "022318003983",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T24 K3",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu"
+  },
+  {
+    "STT": 214,
+    "Họ và tên": "Nguyễn Đức  An",
+    "Ngày tháng năm sinh": "22/6/2018",
+    "Mã định danh của HS": "022218006081",
+    "Nơi sinh (Huyện, tỉnh)": "Uông Bí - Quảng Ninh",
+    "Nơi ở hiện tại": "T61 K6",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 215,
+    "Họ và tên": "Đặng Minh Quang Anh",
+    "Ngày tháng năm sinh": "6/12/2018",
+    "Mã định danh của HS": "022218009802",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T57 K6",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 216,
+    "Họ và tên": "Hoàng Ngọc Anh",
+    "Ngày tháng năm sinh": "20/1/2018",
+    "Mã định danh của HS": "022318000993",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T68 K7",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 217,
+    "Họ và tên": "Lưu Bảo  Anh",
+    "Ngày tháng năm sinh": "12/08/2018",
+    "Mã định danh của HS": "022318005137",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T57 K6",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 218,
+    "Họ và tên": "Phạm Việt Anh",
+    "Ngày tháng năm sinh": "13/01/2018",
+    "Mã định danh của HS": "022218000428",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T75 K7",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 219,
+    "Họ và tên": "Nguyễn Hoàng Bách",
+    "Ngày tháng năm sinh": "2/6/2018",
+    "Mã định danh của HS": "022218003834",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T19 K2",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 220,
+    "Họ và tên": "Nguyễn Gia Bảo",
+    "Ngày tháng năm sinh": "12/11/2018",
+    "Mã định danh của HS": "022218009137",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T80 K8",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 221,
+    "Họ và tên": "Lê Phương  Chi",
+    "Ngày tháng năm sinh": "24/4/2018",
+    "Mã định danh của HS": "022318002410",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T66 K6",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 222,
+    "Họ và tên": "Lê Ngọc Diệp",
+    "Ngày tháng năm sinh": "10/12/2018",
+    "Mã định danh của HS": "",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T66 K6",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 223,
+    "Họ và tên": "Nguyễn Thế Dũng",
+    "Ngày tháng năm sinh": "11/4/2018",
+    "Mã định danh của HS": "022218004038",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T40 K4",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 224,
+    "Họ và tên": "Trương Quang Duy",
+    "Ngày tháng năm sinh": "06/05/2018",
+    "Mã định danh của HS": "026218000244",
+    "Nơi sinh (Huyện, tỉnh)": "Yên Lạc, Vĩnh Phúc",
+    "Nơi ở hiện tại": "T45 K5",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 225,
+    "Họ và tên": "Trương Tấn Đạt",
+    "Ngày tháng năm sinh": "25/05/2018",
+    "Mã định danh của HS": "022218004305",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T38 K4",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 226,
+    "Họ và tên": "Hoàng Ngọc Hân",
+    "Ngày tháng năm sinh": "31/3/2018",
+    "Mã định danh của HS": "022318001875",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T38 K4",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 227,
+    "Họ và tên": "Vũ Minh Hoàng",
+    "Ngày tháng năm sinh": "6/11/2018",
+    "Mã định danh của HS": "022218008928",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T20 K2",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 228,
+    "Họ và tên": "Hà Gia Huy",
+    "Ngày tháng năm sinh": "23/10/2018",
+    "Mã định danh của HS": "034218003097",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T46 K5",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 229,
+    "Họ và tên": "Phạm Quang  Khải",
+    "Ngày tháng năm sinh": "29/10/2018",
+    "Mã định danh của HS": "022218008611",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T80 K8",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 230,
+    "Họ và tên": "Vũ Duy Khánh",
+    "Ngày tháng năm sinh": "28/7/2018",
+    "Mã định danh của HS": "022218005312",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T65 K6",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 231,
+    "Họ và tên": "Hoàng Bảo Khôi",
+    "Ngày tháng năm sinh": "30/7/2018",
+    "Mã định danh của HS": "022218005550",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T7 K1",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 232,
+    "Họ và tên": "Phạm Bảo Long",
+    "Ngày tháng năm sinh": "26/9/2018",
+    "Mã định danh của HS": "022218007287",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T39 K4",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 233,
+    "Họ và tên": "Trần Thị Trúc Ly",
+    "Ngày tháng năm sinh": "11/3/2018",
+    "Mã định danh của HS": "042318001959",
+    "Nơi sinh (Huyện, tỉnh)": "Hà Tĩnh",
+    "Nơi ở hiện tại": "T17 K2",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 234,
+    "Họ và tên": "Vũ Thái  Minh",
+    "Ngày tháng năm sinh": "17/12/2018",
+    "Mã định danh của HS": "022218010195",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T68 K7",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 235,
+    "Họ và tên": "Đoàn Kim  Ngân",
+    "Ngày tháng năm sinh": "25/02/2018",
+    "Mã định danh của HS": "022318000896",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T71 K7",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 236,
+    "Họ và tên": "Trần Kim Ngân",
+    "Ngày tháng năm sinh": "19/9/2018",
+    "Mã định danh của HS": "030318011562",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T75 K7",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 237,
+    "Họ và tên": "Nguyễn Bảo Ngọc",
+    "Ngày tháng năm sinh": "08/08/2018",
+    "Mã định danh của HS": "022318005608",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T64 K6",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 238,
+    "Họ và tên": "Nguyễn Linh Ngọc",
+    "Ngày tháng năm sinh": "17/09/2018",
+    "Mã định danh của HS": "022318006408",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T85 K8",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 239,
+    "Họ và tên": "Nguyễn Gia Phú",
+    "Ngày tháng năm sinh": "24/2/2018",
+    "Mã định danh của HS": "022218001150",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T75 K7",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 240,
+    "Họ và tên": "Lại Gia  Phúc",
+    "Ngày tháng năm sinh": "17/02/2018",
+    "Mã định danh của HS": "022218001135",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long - Quảng Ninh",
+    "Nơi ở hiện tại": "T15 K2",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 241,
+    "Họ và tên": "Nguyễn Đức Phúc",
+    "Ngày tháng năm sinh": "01/05/2018",
+    "Mã định danh của HS": "022218003826",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T14 K2",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 242,
+    "Họ và tên": "Đặng Minh Phương",
+    "Ngày tháng năm sinh": "1/3/2018",
+    "Mã định danh của HS": "022318001856",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T39 K4",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 243,
+    "Họ và tên": "Nguyễn Hà Phương",
+    "Ngày tháng năm sinh": "3/5/2018",
+    "Mã định danh của HS": "022318002691",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T54 K5",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 244,
+    "Họ và tên": "Nguyễn Huy Tuần",
+    "Ngày tháng năm sinh": "11/9/2018",
+    "Mã định danh của HS": "022218006691",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T24 K3",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 245,
+    "Họ và tên": "Phạm Hữu Minh Tùng",
+    "Ngày tháng năm sinh": "23/10/2018",
+    "Mã định danh của HS": "022218009386",
+    "Nơi sinh (Huyện, tỉnh)": "Ba Đình, Hà Nội",
+    "Nơi ở hiện tại": "T55 K5",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 246,
+    "Họ và tên": "Nguyễn Anh  Thảo",
+    "Ngày tháng năm sinh": "3/7/2018",
+    "Mã định danh của HS": "022318005005",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T18 K2",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 247,
+    "Họ và tên": "Vũ Yến Trang",
+    "Ngày tháng năm sinh": "10/02/2018",
+    "Mã định danh của HS": "022318000843",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T39 K4",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 248,
+    "Họ và tên": "Hoàng Thanh  Trúc",
+    "Ngày tháng năm sinh": "26/7/2018",
+    "Mã định danh của HS": 22318004693,
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long - Quảng Ninh",
+    "Nơi ở hiện tại": "T75 K7",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 249,
+    "Họ và tên": "Phạm Ngọc Hà  Vy",
+    "Ngày tháng năm sinh": "13/01/2018",
+    "Mã định danh của HS": "030318008878",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T47 K5",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  },
+  {
+    "STT": 250,
+    "Họ và tên": "Vũ Thị Như Ý",
+    "Ngày tháng năm sinh": "09/11/2018",
+    "Mã định danh của HS": "034318013697",
+    "Nơi sinh (Huyện, tỉnh)": "Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "T55 K5",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc"
+  }
+]
